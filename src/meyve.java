@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class meyve {
     public static void main(String[] args) {
         double armut=2.14, elma=3.67, domates=1.11, muz=0.95, patlican=5;
